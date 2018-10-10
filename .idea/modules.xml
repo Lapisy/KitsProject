@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../LibaryKits/CommonKit/CommonKit.iml" filepath="$PROJECT_DIR$/../LibaryKits/CommonKit/CommonKit.iml" />
       <module fileurl="file://$PROJECT_DIR$/KitsProject.iml" filepath="$PROJECT_DIR$/KitsProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/UiKit/UiKit.iml" filepath="$PROJECT_DIR$/UiKit/UiKit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LibaryKits/UiKit/UiKit.iml" filepath="$PROJECT_DIR$/../LibaryKits/UiKit/UiKit.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

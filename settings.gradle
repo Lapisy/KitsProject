@@ -1,1 +1,7 @@
-include ':app', ':UiKit'
+include ':app', ':LibaryDemo'
+include ':UiKit'
+include ':CommonKit'
+
+
+project(':UiKit').projectDir = new File('../LibaryKits/UiKit')
+project(':CommonKit').projectDir = new File('../LibaryKits/CommonKit')
